@@ -1,5 +1,5 @@
 <h1>Proyecto integrador BioSafe</h1>
-<p>Este proyecto es el proyecto que engloba todas las materias que curse durante mi 5to cuatrimestre en la Universidad Tecnológica de chihuahua en la carrera de tecnologias de la informacion en el area de desarrollo de software</p>
+<p>Este proyecto es el proyecto que engloba todas las materias que curse durante mi 5to cuatrimestre en la Universidad Tecnológica de Chihuahua en la carrera de tecnologias de la informacion en el area de desarrollo de software multiplataforma</p>
 <h2>¿Qué se realizó?</h2>
 Se realizó un proyecto que era un ecosistema de programas que incluye una pagina o app web, una app movil y un dispositivo de IoT, todo esto conectado a una base de datos en google firebase
 <h2>¿Qué se utilizó?</h2>
