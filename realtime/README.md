@@ -9,20 +9,3 @@ Y la otra será la de los usuarios con la siguiente estructura
 [Tu proyecto firebase]/Usuarios/(IdUsuario)/Apellido:"" (string),Nombre:"" (string), Correo:""(string), Password:""(String)
 Esta coleccion será la encargada de los inicios de sesion en ambas apps, en la web y en la movil, el IdUsuario NO debe de ser aleatorio ya que será con el que se ingrese en la app web, y el correo será con el que se inicie sesion en la app movil, la contraseña es compartida.
 
-
-# realtime
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
